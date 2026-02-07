@@ -1,1 +1,4 @@
-I am testing this file
+git add .       local changes
+git commit -m "Add Test file"      staging area
+
+git push -u origin main       push   changes to remote branch
